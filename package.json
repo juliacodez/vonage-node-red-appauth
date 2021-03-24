@@ -10,7 +10,7 @@
   "license": "MIT",
   "node-red": {
     "nodes": {
-      "appauth": "appauth.js"
+      "vonageappauth": "appauth.js"
     }
   },
   "dependencies": {
